@@ -16,7 +16,7 @@ Projeto com o intuito de utilizar FastApi em Python para consumos de API`s.
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/rodrigguis/api-sabor-express
 ```
 
 Entre no diretório do projeto
